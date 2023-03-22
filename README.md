@@ -1,7 +1,7 @@
 ### Hello! My name is Hubert :)
 ***
 **About Me**
-- Student at the University of Toronto St. George Campus.Cancel changes
+- Student at the University of Toronto St. George Campus.
 - Studying Computer Science.
 - Trying to learn more about web development and machine learning.
 
