@@ -1,4 +1,9 @@
-### Hello!
+### Hello! My name is Hubert :)
+***
+**About Me**
+- Student at the University of Toronto St. George Campus.Cancel changes
+- Studying Computer Science.
+- Trying to learn more about web development and machine learning.
 
 <!--
 **Aumisom/Aumisom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
