@@ -16,7 +16,10 @@
 <br>
 
 - **Languages**:
-Python, Java, HTML, CSS
+Python, Java, Javascript, Typescript, HTML, CSS, SQL
 
-- **Other**:
-LaTeX, Markdown
+- **Frameworks**:
+React, Django
+
+- **Developer Tools**:
+Git, Postman, Google Cloud Platform
