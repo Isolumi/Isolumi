@@ -10,15 +10,17 @@
 - Studying Computer Science.
 - Trying to learn more about machine learning and web architecture.
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 - **Languages**:
-Python, Java, Javascript, Typescript, HTML, CSS, SQL
+Python, Java, Javascript, Typescript, SQL
 
-- **Frameworks**:
-React, Django
+- **Backend**:
+Spring MVC, Spring Data, BigQuery, Firebase, PostgreSQL, NodeJS
 
-- **Developer Tools**:
-Git, Postman, Google Cloud Platform
+- **Frontend**:
+React, Tailwind, Bootstrap, Django
+
+- **Dev Tools**:
+Google Cloud, Git, Postman, Vite, SourceTree
