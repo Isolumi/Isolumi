@@ -8,16 +8,16 @@
 
 - Student at the University of Toronto (St. George).
 - Studying Computer Science.
-- Trying to learn more about machine learning and web architecture.
+- Trying to learn more about machine learning and game development.
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 - **Languages**:
-Python, Java, Javascript, Typescript, SQL
+Python, Java, Javascript, Typescript, C++, R, SQL, Assembly
 
 - **Backend**:
-Spring MVC, Spring Data, BigQuery, Firebase, PostgreSQL, NodeJS
+PyTorch, Spring MVC, Spring Data, BigQuery, Firebase, PostgreSQL, NodeJS
 
 - **Frontend**:
 React, Tailwind, Bootstrap, Django
