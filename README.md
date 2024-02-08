@@ -11,42 +11,34 @@
 - Love to play basketball and music in my spare time!
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+- 💻 &nbsp;
+![Python Badge](https://img.shields.io/badge/Python-333333?logo=python&logoColor=&style=flat-square)
+![C Badge](https://img.shields.io/badge/C-333333?logo=c&logoColor=&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-333333?logo=cplusplus&logoColor=&style=flat-square)
+![Java](https://img.shields.io/badge/Java-333333?logo=java&logoColor=&style=flat-square)
+![R Badge](https://img.shields.io/badge/R-333333?logo=r&logoColor=&style=flat-square)
 
-**Languages**:
+- 📖 &nbsp;
+![NumPy Badge](https://img.shields.io/badge/NumPy-333333?logo=numpy&logoColor=&style=flat-square)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-333333?logo=pytorch&logoColor=&style=flat-square)
+![pandas Badge](https://img.shields.io/badge/pandas-333333?logo=pandas&logoColor=&style=flat-square)
+![Plotly Badge](https://img.shields.io/badge/Plotly-333333?logo=plotly&logoColor=&style=flat-square)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-333333?logo=scikitlearn&logoColor=&style=flat-square)
 
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- 📊 &nbsp;
+![Spring Badge](https://img.shields.io/badge/Spring-333333?logo=spring&logoColor=&style=flat-square)
+![Flask Badge](https://img.shields.io/badge/Flask-333333?logo=flask&logoColor=&style=flat-square)
+![Firebase Badge](https://img.shields.io/badge/Firebase-333333?logo=firebase&logoColor=&style=flat-square)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-333333?logo=mongodb&logoColor=&style=flat-square)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-333333?logo=postgresql&logoColor=&style=flat-square)
 
-**ML Libraries**:
+- 🌐 &nbsp;
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-333333?logo=typescript&logoColor=&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-333333?logo=react&logoColor=&style=flat-square)
+![Vite Badge](https://img.shields.io/badge/Vite-333333?logo=vite&logoColor=&style=flat-square)
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Backend**:
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**:
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Softwares and Tools**:
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+- ⚙️ &nbsp;
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-333333?logo=googlecloud&logoColor=&style=flat-square)
+![Git Badge](https://img.shields.io/badge/Git-333333?logo=git&logoColor=&style=flat-square)
+![Postman Badge](https://img.shields.io/badge/Postman-333333?logo=postman&logoColor=&style=flat-square)
+![Vim Badge](https://img.shields.io/badge/Vim-333333?logo=vim&logoColor=&style=flat-square)
