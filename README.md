@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hello! I'm Hubert :) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello! I'm Hubert :) </b><img alt="catcode" src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width='50'></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There!++;Welcome+to+my+Github+!++;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!++;Welcome+to+my+Github+!++;"></a>
 </p>
 
 ## **About me:**
