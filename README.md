@@ -7,7 +7,7 @@
 
 - Student at the University of Toronto (St. George).
 - Computer Science Specialist with a focus in Artificial Intelligence.
-- Love to play basketball and music in my spare time!
+- Love to play basketball and piano in my spare time!
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - 💻 &nbsp;
