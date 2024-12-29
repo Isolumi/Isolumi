@@ -1,13 +1,18 @@
-<h1 align="center"><b>Hello! I'm Hubert :) </b><img alt="chimken" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width='75'></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!++;Welcome+to+my+Github+!++;"></a>
-</p>
+<h1 align="left">
+  <b>Hello! I'm Hubert :) </b>
+  <img alt="chimken" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width='50'>
+</h1>
+<p>I am a Computer Science student at the University of Toronto who is interested in researching ways to elevate productivity using machine learning!</p>
+<ul>
+  <li>Founder of <a href="https://github.com/Project-Notely" target="_blank">Notely</a>, an all-in-one productivity tool designed to streamlines note taking, task management, and organization</li>
+  <li>Currently @ UofTHacks on the Frontend Development team</li>
+  <li>Prev @ Campus Eats on the Backend team and @ Loobo Inc as an intern Fullstack Developer</li>
+</ul>
 
-## **About me:**
+## **Currently I am Learning ...**
 
-- Student at the University of Toronto (St. George).
-- Computer Science Specialist with a focus in Artificial Intelligence.
-- Love to play basketball and piano in my spare time!
+- Deep learning architectures such as GAN, CNN, Transformers, etc...
+- GPU programming with CUDA to accelerate machine learning and data processing tasks
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - 💻 &nbsp;
