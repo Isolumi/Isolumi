@@ -11,7 +11,7 @@
 
 ## **Currently I am Learning ...**
 
-- Deep learning architectures such as GAN, CNN, Transformers, etc...
+- Deep learning architectures such as Transformers, VIT, etc...
 - GPU programming with CUDA to accelerate machine learning and data processing tasks
 
 ## **Socials**
