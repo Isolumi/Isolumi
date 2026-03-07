@@ -16,7 +16,7 @@
 
 ## **Socials**
 - Connect with me on <a href="https://www.linkedin.com/in/~hx" target="_blank">Linkedin</a> :)
-- Checkout my <a href="https://hbrt-x.me/" target="_blank">portfolio</a>!
+- Checkout my <a href="https://hubert-xu.com/" target="_blank">portfolio</a>!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 Languages: &nbsp;
