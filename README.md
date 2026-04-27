@@ -5,7 +5,7 @@
 <p>I am a Computer Science student at the University of Toronto who is interested in researching ways to elevate productivity using machine learning!</p>
 <ul>
   <li>Founder of <a href="https://github.com/Project-Notely" target="_blank">Notely</a>, an all-in-one productivity tool designed to streamlines note taking, task management, and organization</li>
-  <li>Currently a SWE @ Shopify and President @ UofTHacks</li>
+  <li>Currently a SWE @ Amazon and President @ UofTHacks</li>
   <li>Prev @ MedMe Health as Software Engineer</li>
 </ul>
 
