@@ -11,8 +11,7 @@
 
 ## **Currently I am Learning ...**
 
-- Deep learning architectures such as Transformers, VIT, etc...
-- GPU programming with CUDA to accelerate machine learning and data processing tasks
+- CUDA for LLM inference (KV cache tricks, custom kernels, quantized paths)
 
 ## **Socials**
 - Connect with me on <a href="https://www.linkedin.com/in/~hx" target="_blank">Linkedin</a> :)
